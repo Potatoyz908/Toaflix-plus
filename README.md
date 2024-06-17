@@ -1,5 +1,9 @@
-Projeto HTML/CSS - Toaflix-plus
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Projeto HTML/CSS - Toaflix-plus</h1></summary>
+</div>
+      
+---
 
 Este é o README para o meu primeiro projeto HTML/CSS, onde compartilho detalhes sobre o projeto, instruções de uso e como os visitantes podem contribuir.
 Descrição
@@ -34,8 +38,3 @@ Licença
 
 Este projeto está licenciado sob a EullerJS License.
 
-
-Contato
-
-Meu linkedin: https://www.linkedin.com/in/euller-j%C3%BAlio-002572287/
-Meu email: euller2005@gmail.com
