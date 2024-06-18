@@ -1,39 +1,33 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Projeto HTML/CSS - Toaflix-plus</h1></summary>
-</div>
+# Toaflix-plus
+## HTML/CSS-pratice   
       
 ---
 
-Este é o README para o meu primeiro projeto HTML/CSS, onde compartilho detalhes sobre o projeto, instruções de uso e como os visitantes podem contribuir.
-Descrição
+## Description
 
-Bem-vindo ao nosso website, dedicado a filmes e e-books em domínio público, totalmente gratuitos. Nosso objetivo é oferecer entretenimento para todos, proporcionando acesso a uma vasta coleção que você talvez nem saiba que está ao seu alcance.
+Welcome to Toaflix Plus, a website dedicated to public domain movies and e-books, completely free of charge. Our goal is to provide entertainment for all by offering access to a vast collection that you may not realize is within your reach.
 
-Prévia do projeto: https://potatoyz908.github.io/Toaflix-plus/
+## Project Preview
+Explore a preview of the project [here](https://potatoyz908.github.io/Toaflix-plus/).
 
+## Instructions
+To run the project, you need to open the following files on your computer: index.html, style.css, /img/
 
-Navegue até o diretório do projeto:
-
+1. To view the project locally:
+```sh
 cd Toaflix-plus
+   ```
+2. Open the `index.html` file in your web browser:
+```sh
+Double-click the index.html file or open it with your preferred web browser.
+```
+# Estrutura do Projeto
 
-Abra o arquivo index.html em seu navegador:
+## Estrutura básica de um projeto em HTML e CSS.
 
-    Clique duas vezes no arquivo `index.html` ou abra-o com o navegador de sua preferência.
-Estrutura do Projeto
+- Toaflix-plus/index.html
 
-Estrutura básica de um projeto em HTML e CSS.
+- Toaflix-plus/style.css
 
-arduino
-
-Toaflix-plus/index.html
-
-Toaflix-plus/style.css
-
-Toaflix-plus/img/imagem1.png
-
-
-Licença
-
-Este projeto está licenciado sob a EullerJS License.
+- Toaflix-plus/img/
 
