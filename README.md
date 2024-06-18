@@ -18,7 +18,6 @@ Navegue até o diretório do projeto:
 cd Toaflix-plus
 
 Abra o arquivo index.html em seu navegador:
-perl
 
     Clique duas vezes no arquivo `index.html` ou abra-o com o navegador de sua preferência.
 Estrutura do Projeto
